@@ -19,6 +19,7 @@ adb devices
 1、检查当前已连接设备，若未查询到，尝试有USB线链接 以及打开手机ADB调试
 ![](https://github.com/HelloJokerWord/Android-Log/blob/main/check_devices.png)
 
+
 2、开始连接手机
 ```shell
 // 手机的IP地址可在设置 -> 关于手机 -> 状态信息 中找到IP地址
@@ -31,6 +32,7 @@ adb tcpip 5555
 adb -s xxx tcpip 5555 //xxx是指定的设备id
 ```
 ![](https://github.com/HelloJokerWord/Android-Log/blob/main/support_devices.png)
+
 
 3、重复执行 adb connect [手机IP地址]:5555  即可链接成功
 
