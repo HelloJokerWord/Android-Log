@@ -36,6 +36,7 @@ adb -s xxx tcpip 5555 //xxx是指定的设备id
 
 
 3、重复执行 adb connect [手机IP地址]:5555  即可链接成功
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/connect_devices.png)
 
 4、断开链接，链接其他设备
 ```shell
