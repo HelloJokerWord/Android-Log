@@ -1,4 +1,7 @@
-## Android日志捕获
+# Android日志捕获 
+
+## 1、http请求日志  2、socket日志 3、奔溃日志 4、无线调试app
+
 ### 1、环境准备
 - 1、win7/win10  (系统环境)
 - 2、jdk 1.8 （java环境）
@@ -8,10 +11,18 @@
 ### 2、JDK安装与环境变量配置
 [Java环境安装与配置教程](https://jingyan.baidu.com/article/6dad5075d1dc40a123e36ea3.html "Java环境安装与配置教程")
 
+[JDK官方下载地址](https://www.oracle.com/java/technologies/downloads/#jdk17-windows "JDK官方下载地址")
+
+
 ### 3、Android ADB环境配置
 [ADB环境变量配置教程](https://jingyan.baidu.com/article/2f9b480de62ab741cb6cc225.html "ADB环境变量配置教程")
 
-### 4、ADB命令简单介绍
+[ADB官方下载地址](https://developer.android.com/studio/releases/platform-tools "ADB官方下载地址")
+
+### 4、logView工具
+[logView官方下载地址](https://bitbucket.org/mlopatkin/android-log-viewer/downloads/ "logView官方下载地址")
+
+### 5、ADB命令简单介绍
 ```shell
 //查看当前连接设备
 adb devices
