@@ -46,6 +46,19 @@ adb connect [新的手机IP地址]:5555
 
 ###5、AndLogView简单介绍
 - 1、打开安装好的 andlogview-0.21-SNAPSHOT\lib 目录下 andlogview-0.21-SNAPSHOT-all.jar
+- 2、工具菜单介绍
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/log_menu_adb.png)
 
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/log_menu_select_adb.png)
+
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/log_menu_select_device.png)
+
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/log_menu_filter_config.png)
+
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/log_menu_select_process.png)
+
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/log_http_catch.png)
+
+![](https://github.com/HelloJokerWord/Android-Log/blob/main/log_socket_catch.png)
 
 
