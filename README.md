@@ -17,6 +17,7 @@
 adb devices
 ```
 1、检查当前已连接设备，若未查询到，尝试有USB线链接 以及打开手机ADB调试
+
 ![](https://github.com/HelloJokerWord/Android-Log/blob/main/check_devices.png)
 
 
